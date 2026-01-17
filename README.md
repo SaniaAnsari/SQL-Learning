@@ -1,14 +1,11 @@
-# 📘 SQL Learning Journey 
-
- 📌 This repository is created for **learning and practice purposes**.  
- All content here is part of my **SQL learning journey**.
-
---- 
-
+# 📘 SQL Learning Journey
 ## 📌 Introduction
 
-SQL (Structured Query Language) is used to **store, retrieve, manipulate, and manage data** in relational databases.  
-This repository covers SQL concepts **step-by-step**, from fundamentals to advanced topics, with **examples and practice ideas**.
+SQL (Structured Query Language) is used to **store, retrieve, manipulate, and manage data** in relational databases. This repository is created for 
+**learning and practice purposes**.  
+ All content here is part of my 
+**SQL learning **. 
+ 
 
 ---
 
