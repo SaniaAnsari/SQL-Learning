@@ -23,5 +23,5 @@ SQL (Structured Query Language) is used to **store, retrieve, manipulate, and ma
 - Database & Tables
 - Data Types
 - Constraints
-- CRUD Operations
+- CRUD Operations(Create,Read, Update,Dalete)
 
