@@ -1,7 +1,7 @@
 # 📘 SQL Learning Journey 
 
-> 📌 This repository is created for **learning and practice purposes**.  
-> All content here is part of my **SQL learning journey**.
+ 📌 This repository is created for **learning and practice purposes**.  
+ All content here is part of my **SQL learning journey**.
 
 ---
 
