@@ -1,2 +1,1 @@
 # SQL-Learning
-SQL-Basic-to-Advanced/ │ ├── 01_Basics/ │   ├── Introduction.md │   ├── SQL_Syntax.md │   ├── Data_Types.md │ ├── 02_DML/ │   ├── SELECT.md │   ├── INSERT.md │   ├── UPDATE.md │   ├── DELETE.md │ ├── 03_DDL/ │   ├── CREATE.md │   ├── ALTER.md │   ├── DROP.md │ ├── 04_Constraints/ │   └── Constraints.md │ ├── 05_Joins/ │   └── Joins.md │ ├── 06_Functions/ │   └── Functions.md │ ├── 07_Advanced/ │   ├── Subqueries.md │   ├── Views.md │   └── Indexes.md │ └── README.md
